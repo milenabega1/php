@@ -14,6 +14,6 @@
 */
 echo $_SERVER['SERVER_SOFTWARE'];
  ?>
-    </p>
+  </p>
   </body>
 </html>
